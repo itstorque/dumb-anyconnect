@@ -1,0 +1,9 @@
+Package: com.tareq.dumb-anyconnect
+Name: dumb-anyconnect
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Cisco AnyConnect is dumb, add password retention and settings toggle to it.
+Maintainer: Tareq El Dandachi
+Author: Tareq El Dandachi
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
